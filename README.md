@@ -1,2 +1,0 @@
-# address
-học c++ newbie
